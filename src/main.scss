@@ -72,3 +72,7 @@
   --sn-desktop-titlebar-ui-color: var(--foreground-color);
   --sn-desktop-titlebar-ui-hover-color: var(--highlight-color);
 }
+
+.editor-content .editable, #editor-content #editable {
+  cursor: pointer;
+}
